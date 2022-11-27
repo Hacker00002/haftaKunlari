@@ -16,6 +16,12 @@ main{
     /* align-items: center; */
     justify-content: center;
     flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.126);
+    height: 300px;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 250px;
+    box-shadow: rgba(0, 0, 0, 0.125) 0px 0px 10px 10px;
 }
 
 input{
